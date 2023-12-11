@@ -1,0 +1,28 @@
+C:\Users\HP\source\repos\AutoFabrics\AutoFabrics\bin\Debug\net8.0\AutoFabrics.exe
+C:\Users\HP\source\repos\AutoFabrics\AutoFabrics\bin\Debug\net8.0\AutoFabrics.deps.json
+C:\Users\HP\source\repos\AutoFabrics\AutoFabrics\bin\Debug\net8.0\AutoFabrics.runtimeconfig.json
+C:\Users\HP\source\repos\AutoFabrics\AutoFabrics\bin\Debug\net8.0\AutoFabrics.dll
+C:\Users\HP\source\repos\AutoFabrics\AutoFabrics\bin\Debug\net8.0\AutoFabrics.pdb
+C:\Users\HP\source\repos\AutoFabrics\AutoFabrics\obj\Debug\net8.0\AutoFabrics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\AutoFabrics\AutoFabrics\obj\Debug\net8.0\AutoFabrics.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\AutoFabrics\AutoFabrics\obj\Debug\net8.0\AutoFabrics.AssemblyInfo.cs
+C:\Users\HP\source\repos\AutoFabrics\AutoFabrics\obj\Debug\net8.0\AutoFabrics.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\AutoFabrics\AutoFabrics\obj\Debug\net8.0\AutoFabrics.dll
+C:\Users\HP\source\repos\AutoFabrics\AutoFabrics\obj\Debug\net8.0\refint\AutoFabrics.dll
+C:\Users\HP\source\repos\AutoFabrics\AutoFabrics\obj\Debug\net8.0\AutoFabrics.pdb
+C:\Users\HP\source\repos\AutoFabrics\AutoFabrics\obj\Debug\net8.0\AutoFabrics.genruntimeconfig.cache
+C:\Users\HP\source\repos\AutoFabrics\AutoFabrics\obj\Debug\net8.0\ref\AutoFabrics.dll
+C:\Users\HP\Desktop\auto fabrics\AutoFabrics\bin\Debug\net8.0\AutoFabrics.exe
+C:\Users\HP\Desktop\auto fabrics\AutoFabrics\bin\Debug\net8.0\AutoFabrics.deps.json
+C:\Users\HP\Desktop\auto fabrics\AutoFabrics\bin\Debug\net8.0\AutoFabrics.runtimeconfig.json
+C:\Users\HP\Desktop\auto fabrics\AutoFabrics\bin\Debug\net8.0\AutoFabrics.dll
+C:\Users\HP\Desktop\auto fabrics\AutoFabrics\bin\Debug\net8.0\AutoFabrics.pdb
+C:\Users\HP\Desktop\auto fabrics\AutoFabrics\obj\Debug\net8.0\AutoFabrics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\auto fabrics\AutoFabrics\obj\Debug\net8.0\AutoFabrics.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\auto fabrics\AutoFabrics\obj\Debug\net8.0\AutoFabrics.AssemblyInfo.cs
+C:\Users\HP\Desktop\auto fabrics\AutoFabrics\obj\Debug\net8.0\AutoFabrics.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\auto fabrics\AutoFabrics\obj\Debug\net8.0\AutoFabrics.dll
+C:\Users\HP\Desktop\auto fabrics\AutoFabrics\obj\Debug\net8.0\refint\AutoFabrics.dll
+C:\Users\HP\Desktop\auto fabrics\AutoFabrics\obj\Debug\net8.0\AutoFabrics.pdb
+C:\Users\HP\Desktop\auto fabrics\AutoFabrics\obj\Debug\net8.0\AutoFabrics.genruntimeconfig.cache
+C:\Users\HP\Desktop\auto fabrics\AutoFabrics\obj\Debug\net8.0\ref\AutoFabrics.dll
